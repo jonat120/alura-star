@@ -1,1 +1,2 @@
-# alura-star
+# Alura-Start
+Projeto 2A - Ruth 
