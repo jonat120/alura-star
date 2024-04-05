@@ -1,7 +1,17 @@
 body{
-    background-color: #000000;
-    color: #ffffff;
+    background-color: #353131;
+    color: #006eff;
 
+}
+.cabeçalho{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.cabeçalho-lista-item{
+    display: inline-block;
+    margin: 0 70px;
 }
 
 .logo{
