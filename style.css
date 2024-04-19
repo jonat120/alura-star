@@ -1,5 +1,5 @@
 body{
-    background-color: #000000;
+    background-color: #433d9b;
     color: #ffffff;
 }
 
@@ -17,5 +17,9 @@ body{
 }
 
 .logo{
+    width: 25%;
+}
+
+.escola-img{
     width: 25%;
 }
