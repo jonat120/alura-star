@@ -21,7 +21,7 @@ body{
 }
 
 .escola-img{
-    width: 58%;
+    width: 35%;
 }
 
 .escola{
@@ -30,6 +30,6 @@ body{
     align-items: center;
 }
 
-escola-div-conteudo{
-    widt: 35%
+.escola-div-conteudo{
+    width: 35%;
 }
